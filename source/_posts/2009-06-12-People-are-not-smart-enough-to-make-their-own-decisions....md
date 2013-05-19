@@ -1,0 +1,21 @@
+---
+layout: post
+title: People-are-not-smart-enough-to-make-their-own-decisions...
+date: 2009-06-12-11:22:00
+comments: false
+categories: [jbs, news]
+---
+
+so the government has to do it for us.<br /><br /><br /><a href="http://www.latimes.com/news/nationworld/nation/la-na-tobacco12-2009jun12,0,7932307.story">Senate approves FDA reg of tobacco</a><br /><br />At least this guy got a reduced sentence, being he was obeying state law to the letter.  Federal law has to control as much as possible, in order to justify its existence.<br /><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/06/12/BA7Q185QA2.DTL">366 day sentence for pot dispensary owner</a><br /><br /><span class="fullpost"></span>
+
+
+Posted by: jamba
+
+Category: ##news 
+
+
+Published Date: Fri, 12 Jun 2009 11:22:00 +0000 
+
+<a href="http://factorq.net/2009/06/12/people-are-not-smart-enough-to-make-their-own-decisions/">Original URL</a> | <a href="http://factorq.wordpress.com/2009/06/12/people-are-not-smart-enough-to-make-their-own-decisions/">Original guid</a> | PostID= 13
+
+ original filename: 11
