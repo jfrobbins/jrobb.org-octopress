@@ -120,7 +120,17 @@ Download: http://scripts.irssi.org/scripts/screen_away.pl
     /set screen_away_active ON
     /set screen_away_message
     /set screen_away_nick
-    
+
+This one isn't quite working right for me, though.
+
+## usercount ##
+This shows a count of the number of users in the selected channel.
+Download: [usercount.pl](http://www.irssi.org/scripts/scripts/usercount.pl)
+    /script load usercount.pl
+    /statusbar window add usercount
+    # You can also add -alignment left|right option
+
+## Conclusion ##
 
 As of today ( July 20th, 2013 ), that is my setup for irssi.  I'm liking it quite a bit again, though I don't know if I will stick with it...
 XChat is just so **easy**.  This is nice though, and it is in a terminal, so I could install it on my VPS or any server.
@@ -135,7 +145,7 @@ Below is a screenshot of the (currently unbusy) *#pump.io*.
 - _**awl** script:_ Along the bottom above the entry box it shows the channel windows I have open. Current channel underlined. If another channel has activity, it changes color
 
 
-{% img images/posts/irssi_setup.png [My Irssi Setup [my irssi setup]] %}
+{% img /images/posts/irssi_setup.png [My Irssi Setup [my irssi setup]] %}
 
 
 ## Conversation ##

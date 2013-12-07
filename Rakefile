@@ -5,6 +5,7 @@ require "stringex"
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "jon@jrobb.org"
+#ssh_user       = "jon@192.168.0.101"
 ssh_port       = "22"
 document_root  = "/srv/jrobb.org/"
 rsync_delete   = true
