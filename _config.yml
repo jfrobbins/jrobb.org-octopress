@@ -71,7 +71,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: jambalayajon
-twitter_tweet_count: 0
+twitter_tweet_count: 3
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
@@ -90,4 +90,4 @@ googleplus_hidden: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: true
+facebook_like: false
