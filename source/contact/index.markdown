@@ -10,10 +10,11 @@ If you want to contact me, well, here you go.  <br>
 Don't spam me, bro!
 
 ###Social Networking (in order of use):###
-- pump.io :  <em>[jrobb@io.jrobb.org](https://io.jrobb.org/jrobb) </em> -- my main pump, running on my vps (the raspi went down due to network problems)
+- pump.io :  <em>[jrobb@io.jrobb.org](https://io.jrobb.org/jrobb) </em> -- my main pump
 - - pump.io :  <em>[jrobb@microca.st](https://microca.st/jrobb) </em> -- my backup pump
 - StatusNet :  <em>[jrobb@quitter.se](http://quitter.se/jrobb) </em>
-- google+: <em> [gplus.to/jrobb](https://plus.google.com/u/0/107859421704875909999)</em><br>
+- google+: <em> [+JonathanRobbinsNC](https://plus.google.com/+JonathanRobbinsNC/)</em><br>
+- twitter: <em> [@jambalayajon](https://twitter.com/jambalayajon)</em><br>
 
 ###IRC:###
  **jrobb** on FreeNode (usually hanging in `#pump.io` and/or `#pump.io-offtopic` these days)
