@@ -12,9 +12,12 @@ Don't spam me, bro!
 ###Social Networking (in order of use):###
 - pump.io :  <em>[jrobb@io.jrobb.org](https://io.jrobb.org/jrobb) </em> -- my main pump
 - - pump.io :  <em>[jrobb@microca.st](https://microca.st/jrobb) </em> -- my backup pump
-- StatusNet :  <em>[jrobb@quitter.se](http://quitter.se/jrobb) </em>
+- StatusNet/GNUsocial :  <em>[jrobb@quitter.se](http://quitter.se/jrobb) </em>
 - google+: <em> [+JonathanRobbinsNC](https://plus.google.com/+JonathanRobbinsNC/)</em><br>
 - twitter: <em> [@jambalayajon](https://twitter.com/jambalayajon)</em><br>
+
+###XMPP:###
+- xmpp :  `jrobb@xmpp.jrobb.org`
 
 ###IRC:###
  **jrobb** on FreeNode (usually hanging in `#pump.io` and/or `#pump.io-offtopic` these days)
